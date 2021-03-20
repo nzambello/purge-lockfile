@@ -1,7 +1,7 @@
 # purge-lockfile
 
 [![npm version](https://img.shields.io/github/package-json/v/nzambello/purge-lockfile)](https://www.npmjs.com/package/purge-lockfile)
-![Node.js CI](https://github.com/nzambello/purge-lockfile/workflows/test/badge.svg?branch=master)
+![test](https://github.com/nzambello/purge-lockfile/workflows/test/badge.svg?branch=master)
 
 Strips [yarn](https://yarnpkg.com) lockfile by a pattern.
 
